@@ -11,7 +11,6 @@
     align-items: center;
    }
 
-   
    #face{
     
        height: 60px;
@@ -40,5 +39,5 @@
     justify-content: center;
     /* justify-content: space-evenly; */
     align-items: center;
-    background-color: teal;
+/*     background-color: teal; */
    }
