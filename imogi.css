@@ -10,8 +10,8 @@
     justify-content: space-evenly;
     align-items: center;
    }
-body{
-    background-color: teal;
+
+   
    #face{
     
        height: 60px;
@@ -40,4 +40,5 @@ body{
     justify-content: center;
     /* justify-content: space-evenly; */
     align-items: center;
+    background-color: teal;
    }
